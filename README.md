@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosekyle
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on and projects
+- 💞️ I’m looking to collaborate on projects ....
 - 📫 How to reach me github account
 
 <!---
