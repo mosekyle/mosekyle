@@ -23,5 +23,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosekyle&show_icons=true&theme=radical)
 
-<img align='center' width='1020' src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.javatpoint.com%2Ftutorial%2Fsoftware-engineering%2Fimages%2Fsoftware-engineering-introduction.png&tbnid=Zeenk2duOIOcmM&vet=12ahUKEwiMl_HxmqL_AhUhpycCHZUfA5AQMygCegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fwww.javatpoint.com%2Fsoftware-engineering&docid=ejgGemNOOJEmnM&w=604&h=391&q=software%20engineering&ved=2ahUKEwiMl_HxmqL_AhUhpycCHZUfA5AQMygCegUIARDhAQ'>
+<img align='center' width='1040' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-keywords-of-the-software-engineering_fig2_342457338&psig=AOvVaw2XmquKE2z8u2o3zJI72Anq&ust=1685713956067000&source=images&cd=vfe&ved=2ahUKEwis7c_9m6L_AhXvS_EDHU8WCo4QjRx6BAgAEAw'>
 
