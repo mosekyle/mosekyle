@@ -23,5 +23,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosekyle&show_icons=true&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosekyle&label=Profile%20views&color=0e75b6&style=flat" alt="mosekyle" /> </p>
+<img align='center' width='1020' src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.javatpoint.com%2Ftutorial%2Fsoftware-engineering%2Fimages%2Fsoftware-engineering-introduction.png&tbnid=Zeenk2duOIOcmM&vet=12ahUKEwiMl_HxmqL_AhUhpycCHZUfA5AQMygCegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fwww.javatpoint.com%2Fsoftware-engineering&docid=ejgGemNOOJEmnM&w=604&h=391&q=software%20engineering&ved=2ahUKEwiMl_HxmqL_AhUhpycCHZUfA5AQMygCegUIARDhAQ'>
 
