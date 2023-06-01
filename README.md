@@ -1,10 +1,9 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+To+My+Profile;My+Name+Is+Moses Gitau;I+Am+Fascinated+About+Technology;I'm+To+The+World+Through+My+Skills)](https://git.io/typing-svg)
 # Hello I'm Moses.👋
 
-### I am a Software Engineering student at ALX. `I Fascinated about Technology....`
+### I am a Software Engineering student at ALX. `I am Fascinated about Technology....`
 
 - ####  I’m currently building on my craft.
-- #### 👯 I’m open to collaborate on projects.
+- #### I’m open to collaborate on projects.
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/moses-gitau-860292246)
