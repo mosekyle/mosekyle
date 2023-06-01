@@ -23,3 +23,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosekyle&show_icons=true&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosekyle&label=Profile%20views&color=0e75b6&style=flat" alt="mosekyle" /> </p>
+
