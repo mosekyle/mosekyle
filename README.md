@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @mosekyle
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects ....
-- 📫 How to reach me moseskyle2021@gmail.com
-✨Just coding 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+To+My+Profile;My+Name+Is+Moses Gitau;I+Am+Fascinated+About+Technology;I'm+To+The+World+Through+My+Skills)](https://git.io/typing-svg)
+# Hello I'm Moses.👋
 
-<!---
-mosekyle/mosekyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I am a Software Engineering student at ALX. `I Fascinated about Technology....`
+
+- ####  I’m currently building on my craft.
+- #### 👯 I’m open to collaborate on projects.
+
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/moses-gitau-860292246)
+* [Twitter](https://twitter.com/moses__kyle?t=4C9qT0T4RmJ3Mu6Bfk4BLQ&s=09)
+* [Email](mailto:moseskyle2021@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosekyle&layout=compact)](https://github.com/mosekyle/github-readme-stats)
+
+## QUESTION AND ANSWER WEBSITE 
+* [Stackoverflow](https://Stackoverflow.com/)
+* [GitHub](https://github.com/)
+* [Quora](https://quora.com/)
+* [Reddit](https://reddit.com/)
+* [Stack exchange](https://Stackexchange.com/)
+* [Code project](https://codeproject.com/)
+* [Programmers heaven](https://programmersheaven.com/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosekyle&show_icons=true&theme=radical)
+
