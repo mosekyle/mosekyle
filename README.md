@@ -23,5 +23,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosekyle&show_icons=true&theme=radical)
 
-<img align='center' width='1040' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-keywords-of-the-software-engineering_fig2_342457338&psig=AOvVaw2XmquKE2z8u2o3zJI72Anq&ust=1685713956067000&source=images&cd=vfe&ved=2ahUKEwis7c_9m6L_AhXvS_EDHU8WCo4QjRx6BAgAEAw'>
+<img  src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-keywords-of-the-software-engineering_fig2_342457338&psig=AOvVaw2XmquKE2z8u2o3zJI72Anq&ust=1685713956067000&source=images&cd=vfe&ved=2ahUKEwis7c_9m6L_AhXvS_EDHU8WCo4QjRx6BAgAEAw'>
 
