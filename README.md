@@ -1,6 +1,6 @@
 # Hello I'm Moses.👋
 
-### I am a Software Engineering student at ALX. `I am Fascinated about Technology....`
+### I am a Software Engineering student. `I am Fascinated about Technology....`
 
 - ####  I’m currently building on my craft.
 - #### I’m open to collaborate on projects.
